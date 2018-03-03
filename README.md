@@ -7,13 +7,21 @@ or you can also use here until 3/24/2018
 https://mannam.site/
 
 -Back_end-
+
 Firsebase
 
 
 -Front_end-
+
 Javascript
+
 CSS
+
 Html
+
 Jquery
+
 Bootstrap
+
+
 are used to make this project.
