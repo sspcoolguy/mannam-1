@@ -13,15 +13,6 @@ Firsebase
 
 -Front_end-
 
-Javascript
-
-CSS
-
-Html
-
-Jquery
-
-Bootstrap
-
+Javascript, CSS, HTML, Jquery, Bootstrap
 
 are used to make this project.
