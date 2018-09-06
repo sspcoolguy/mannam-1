@@ -8,11 +8,11 @@ https://mannam.site/
 
 -Back_end-
 
-Firsebase
+Firsebase.
 
 
 -Front_end-
 
-Javascript, CSS, HTML, Jquery, Bootstrap
+Javascript, CSS, HTML, Jquery, Bootstrap.
 
 was used to make this project.
